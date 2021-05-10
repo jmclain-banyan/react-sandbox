@@ -1,5 +1,6 @@
 {
   "name": "react-sandbox",
+  "homepage": "http://joshmclain45.github.io/react-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
